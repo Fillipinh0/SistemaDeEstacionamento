@@ -1,0 +1,14 @@
+C:\Users\filli\Desktop\bootcamp\bin\Debug\net8.0\bootcamp.exe
+C:\Users\filli\Desktop\bootcamp\bin\Debug\net8.0\bootcamp.deps.json
+C:\Users\filli\Desktop\bootcamp\bin\Debug\net8.0\bootcamp.runtimeconfig.json
+C:\Users\filli\Desktop\bootcamp\bin\Debug\net8.0\bootcamp.dll
+C:\Users\filli\Desktop\bootcamp\bin\Debug\net8.0\bootcamp.pdb
+C:\Users\filli\Desktop\bootcamp\obj\Debug\net8.0\bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filli\Desktop\bootcamp\obj\Debug\net8.0\bootcamp.AssemblyInfoInputs.cache
+C:\Users\filli\Desktop\bootcamp\obj\Debug\net8.0\bootcamp.AssemblyInfo.cs
+C:\Users\filli\Desktop\bootcamp\obj\Debug\net8.0\bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\filli\Desktop\bootcamp\obj\Debug\net8.0\bootcamp.dll
+C:\Users\filli\Desktop\bootcamp\obj\Debug\net8.0\refint\bootcamp.dll
+C:\Users\filli\Desktop\bootcamp\obj\Debug\net8.0\bootcamp.pdb
+C:\Users\filli\Desktop\bootcamp\obj\Debug\net8.0\bootcamp.genruntimeconfig.cache
+C:\Users\filli\Desktop\bootcamp\obj\Debug\net8.0\ref\bootcamp.dll
