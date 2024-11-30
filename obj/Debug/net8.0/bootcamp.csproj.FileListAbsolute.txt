@@ -12,3 +12,4 @@ C:\Users\filli\Desktop\bootcamp\obj\Debug\net8.0\refint\bootcamp.dll
 C:\Users\filli\Desktop\bootcamp\obj\Debug\net8.0\bootcamp.pdb
 C:\Users\filli\Desktop\bootcamp\obj\Debug\net8.0\bootcamp.genruntimeconfig.cache
 C:\Users\filli\Desktop\bootcamp\obj\Debug\net8.0\ref\bootcamp.dll
+C:\Users\filli\Desktop\bootcamp\obj\Debug\net8.0\bootcamp.sourcelink.json

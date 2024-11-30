@@ -9,25 +9,36 @@ namespace bootcamp.Models
 {
     public class Veiculos
     {
+        //private
         private string _placa;
+
+        //atributo
         public string Placa 
         { 
-            get
-            {
-                return _placa;
-            }
+            get => _placa;
             set 
             {
-                if (value.Length == 7)
+                if (value.Length == 8)
                 {
                     _placa = value;
                 }
                 else 
                 {
-                    throw new PlacaException("A placa precisa conter exatamente 7 caracteres.");
+                    throw new PlacaException("Erro: A placa precisa conter exatamente 8 caracteres, contando com o hífen ('-').");
                 }
                 
             } 
         }
+
+        public Veiculos(string placa)
+        {
+            Placa = placa;
+        }
+
+        public override string ToString()
+        {
+            return $" Placa: {Placa}";
+        }
+
     }
 }
